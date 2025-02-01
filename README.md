@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bismark-K
+- 👋 Hi, I’m @Bismark-KD
 - 👀 I’m interested in solving world big problems that will improve our day-to-day activities and make our lives interesting.
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on open-source projects related to artificial intelligence, cybersecurity, application development or web development that solve world problems.
